@@ -14,7 +14,7 @@ function App() {
         mx="auto"
         px="auto"
         sx={{
-          color: "white",
+          color: "#C7FFF7",
         }}
       >
         <Box>
